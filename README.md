@@ -26,6 +26,12 @@ Think of Docker applications as tiny containers, which have their own filesystem
    
    3). You can share and reuse Docker containers between projects and teams.
 
+## Installing Docker
+You can download and install Docker on multiple platforms. Refer to the following section and choose the best installation path for you. Head over to this link to download Docker.
+
+![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/docker.png) 
+
+
 
 # About The Project.
 
