@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+
+Docker is possibly the most popular solution to have all your services run in a container. Containers allow us to run and develop an application in the same environment, regardless of what machine you’re on.
+
+
+Containers are a standardized unit of software that allows developers to isolate their app from its environment, solving the “it works on my machine” headache.
+
+
+Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers.
+
+#About The Project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
