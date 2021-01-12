@@ -31,8 +31,12 @@ You can download and install Docker on multiple platforms. Refer to the followin
 
 ![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/docker.png) 
 
-
-
+## Docker Installation Confirmation
+Once you installed Docker on your machine, open the terminal and type the following. You should see a docker version in the console. However, if you don’t see a version, please reinstall or restart your machine.
+ 
+ ![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/docker.png)  
+ 
+ 
 # About The Project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
