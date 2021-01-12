@@ -19,6 +19,16 @@ Docker builds an image out of all of those dependencies which we can re-use over
 Think of Docker applications as tiny containers, which have their own filesystem and dedicated RAM, but a shared kernel with the host operating system.
 
 
+## Here Are a Few Reasons Why You Should Consider Using Docker
+   Docker helps to make shipping environments more predictable. 
+   
+   Solves the “works on my machine” problem.
+   
+   You can share and reuse Docker containers between projects and teams.
+
+
+
+
 # About The Project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
