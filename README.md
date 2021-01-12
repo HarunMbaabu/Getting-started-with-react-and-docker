@@ -8,7 +8,16 @@ Containers are a standardized unit of software that allows developers to isolate
 
 Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers. 
 
-![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/reactcontainer.png)
+![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/reactcontainer.png) 
+
+
+When you deploy an application you have to install all the dependencies (MySQL, Node, Redis) on the host system. With Docker, instead of managing host systems, you just specify a Docker file that lists all the dependencies for the project. 
+
+Docker builds an image out of all of those dependencies which we can re-use over multiple computers. Docker users can store images in private or public repositories, and from there can then deploy containers, test images, and share them. 
+
+
+Think of Docker applications as tiny containers, which have their own filesystem and dedicated RAM, but a shared kernel with the host operating system.
+
 
 # About The Project.
 
