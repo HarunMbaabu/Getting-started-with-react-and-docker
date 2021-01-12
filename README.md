@@ -20,13 +20,11 @@ Think of Docker applications as tiny containers, which have their own filesystem
 
 
 ## Here Are a Few Reasons Why You Should Consider Using Docker
-   Docker helps to make shipping environments more predictable. 
+   1). Docker helps to make shipping environments more predictable. 
    
-   Solves the “works on my machine” problem.
+   2). Solves the “works on my machine” problem.
    
-   You can share and reuse Docker containers between projects and teams.
-
-
+   3). You can share and reuse Docker containers between projects and teams.
 
 
 # About The Project.
