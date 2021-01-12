@@ -6,7 +6,9 @@ Docker is possibly the most popular solution to have all your services run in a 
 Containers are a standardized unit of software that allows developers to isolate their app from its environment, solving the “it works on my machine” headache.
 
 
-Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers.
+Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers. 
+
+![alt text](https://github.com/LuxTechAcademy/Getting-started-with-react-and-docker/blob/main/reactcontainer.png)
 
 # About The Project.
 
